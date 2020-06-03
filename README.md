@@ -4,5 +4,5 @@ This was the first hardware coding project that I did to learn Arduino programmi
 
 The speeded up gif version of the final output as seen below. The original video can be seen at- https://www.youtube.com/watch?v=R6M8pWOedLU. 
 <p align="center">
-  <img src="images/LED_cube.png">
+  <img src="images/LED_cube.gif">
 </p>
